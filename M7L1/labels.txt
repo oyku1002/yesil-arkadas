@@ -1,0 +1,3 @@
+0 kus
+1 kedi
+2 kopek
